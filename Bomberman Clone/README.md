@@ -39,8 +39,8 @@ Bomberman-Clone/
 │
 ├── main.py       # Main game loop and event handling
 ├── config.py     # Game settings, constants, and colors
-├── mapa.py       # Map generation and movement validation
-├── logica.py     # Bombs, explosions, and enemy AI
+├── mapa.py       # Map generation
+├── logica.py     # Bombs, explosions, movement validation and enemy AI
 ├── desenho.py    # Game rendering and menus
 │
 └── README.md
